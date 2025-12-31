@@ -1,1 +1,2 @@
 hello from file.txt by user 1
+hello from file.txt by user 2
